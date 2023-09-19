@@ -1,6 +1,6 @@
 # Hi, I'm Carlos Monteiro 👋
 
-## Programming Student
+## Programming Student💻
 
 ## Overview
 
@@ -36,7 +36,7 @@ I am currently working in the field of IT analysis and support, which provides m
 
 Feel free to reach out to me if you have any questions or would like to connect:
 
-- Email: dev.carlos.monteiro@gmail.com
-- LinkedIn: www.linkedin.com/in/carlos-monteiro-57a37317b
+- 📩Email: dev.carlos.monteiro@gmail.com
+- 🔗LinkedIn: www.linkedin.com/in/carlos-monteiro-57a37317b
 
 Thank you for checking out my journey in programming, and I look forward to sharing more about my progress and projects in the future!
